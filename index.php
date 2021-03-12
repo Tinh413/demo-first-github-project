@@ -10,3 +10,4 @@ use Intervention\Image\ImageManagerStatic as Image;
 $image = Image::make('img/Untitled.png')->resize(1024, 768)->save('img/Untitled2.png',100);
 
 echo '<img src="img/Untitled2.png" alt="" />';
+echo '<p>Dòng này được thêm từ github</p>';
