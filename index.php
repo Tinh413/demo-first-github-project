@@ -13,3 +13,4 @@ echo '<img src="img/Untitled2.png" alt="" />';
 echo '<p>Dòng này được thêm từ github</p>';
 echo '<p>Dòng 2 này được thêm từ github. Tạo conflict từ local</p>';
 echo '<p>Dòng 3 này tạo để minh hoạ create pull request</p>';
+echo '<p>Dòng 4 này tạo để minh hoạ create pull request</p>';
